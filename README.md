@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React with Typescript working in Vite with HMR and some ESLint rules.
 Here it was installed somethigs to basic setup like Tailwindcss for styles, Zustand for state management, React Router for routes management, Axios for https API's and React Toastify for toasts notifications.
 
-# In this project you will find:
+### In this project you will find:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ Here it was installed somethigs to basic setup like Tailwindcss for styles, Zust
 ![Axios](https://img.shields.io/badge/Axios-191970?style=for-the-badge&logo=Axios&logoColor=#5A29E4)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Para Contato
+### Para Contato
 
 <!-- Social Links -->
 <div align="center"> 
