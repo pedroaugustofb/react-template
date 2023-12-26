@@ -1,7 +1,12 @@
 ## React New Project Template
 
 This template provides a minimal setup to get React with Typescript working in Vite with HMR and some ESLint rules.
-Here it was installed somethigs to basic setup like Tailwindcss for styles, Zustand for state management, React Router for routes management, Axios for https API's and React Toastify for toasts notifications.
+Here it was installed somethigs to basic setup like:
+- Tailwindcss for styles 🌟
+- Zustand for state management 📊
+- React Router for routes management 👩‍💻
+- Axios for https API's 🖥️
+- React Toastify for toasts notifications. ⭐
 
 ## In this project you will find:
 
