@@ -16,7 +16,7 @@ Here it was installed somethigs to basic setup like Tailwindcss for styles, Zust
 ![Axios](https://img.shields.io/badge/Axios-191970?style=for-the-badge&logo=Axios&logoColor=#5A29E4)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Para Contato
+## For contact me:
 
 <!-- Social Links -->
 <div align="center"> 
